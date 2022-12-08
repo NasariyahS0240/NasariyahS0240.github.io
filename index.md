@@ -10,9 +10,11 @@ Shop with us today and get the perfect phone case for your needs!
 
 Here are some of our cases that have recently arrived in our inventory. 👇
 
-## Model One:
+## PNK pocodot and charms case:
 
-<img src="promo1.png" width="400">
+<img src="promo3.png" width="400">
+
+This Case is combatible with the following devices
 
 ## Model Two:
 
