@@ -18,4 +18,4 @@ This Case is combatible with the following devices
 
 ## Model Two:
 
-<img src="promo2.png" width="400">
+<img src="promo5.png" width="400">
