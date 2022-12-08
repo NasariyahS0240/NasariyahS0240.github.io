@@ -10,8 +10,8 @@ Shop with us today and get the perfect phone case for your needs!
 
 ## Model One:
 
-<img src="promo1.png"width="400">
+<img src="promo1.png" width="400">
 
 ## Model Two:
 
-<img src="promo2.png"width="400">
+<img src="promo2.png" width="400">
