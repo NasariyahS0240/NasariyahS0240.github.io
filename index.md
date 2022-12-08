@@ -12,7 +12,7 @@ Here are some of our cases that have recently arrived in our inventory. 👇
 
 ## PNK pocodot and charms case:
 
-<img src="![promo3](https://user-images.githubusercontent.com/117188442/206510418-d3a44c71-7184-4579-a805-476578c8a46c.png)" width="400">
+<img src="promo3.png" width="400">
 
 This Case is combatible with the following devices
 
