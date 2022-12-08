@@ -8,6 +8,8 @@ We know that your phone is an important part of your life, and that's why we're 
 
 Shop with us today and get the perfect phone case for your needs!
 
+Here are some of our cases that have recently arrived in our inventory. 👇
+
 ## Model One:
 
 <img src="promo1.png" width="400">
